@@ -4,6 +4,9 @@
 package Sparta_Java;
 
 import org.junit.jupiter.api.Test;
+
+import sparta_Java.Library;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 class LibraryTest {

@@ -47,6 +47,7 @@ public class Quiz3 {
 		} while (j < 30);
 		System.out.println("홀수의 합: " + odd);
 		System.out.println("짝수의 합: " + even + "\n");
+
 	}
 
 }
